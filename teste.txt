@@ -1,3 +1,6 @@
 arquivo teste alteração de outro computador!
 Exercicio de branch alteração linha 1!
 Exercicio de branch alteração linha 2 e correção linha 1!
+exercicio de branch!
+exercicio de branch commit 02!
+git de branch
