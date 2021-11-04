@@ -1,2 +1,3 @@
 arquivo teste alteração de outro computador!
 exercicio de branch!
+exercicio de branch commit 02!
